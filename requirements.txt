@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+torch
+pillow
+torchvision
+pytest
+doit
+prospector
+black
+scikit-learn
+opencv-python
+tqdm
